@@ -85,7 +85,8 @@ Ensure Python 3.6 or later is installed. Download it from the [official Python w
 
 ### 3. ▶️ Run the program:
       ```bash
-      python Image_Encryption.py### 4. Run the Script: 
+      python Image_Encryption.py### 
+###4. 📜 Run the Script: 
    - Execute the script to open the GUI. 🖥️
 
 ### 5. Select Action: 
